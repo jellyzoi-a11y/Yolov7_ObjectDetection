@@ -4,7 +4,7 @@
 ### Updated on 2025.03.17 by Prof. Kim Byung-Gyu 
 ### Updated on 2026.03.29 by Prof. Kim Byung-Gyu 
 # Updated on 2026. 03. 30 by PRof. Kim
-# practice on 2026. 04. 05 by student
+# practice on 2026. 04. 05 by sookmyung
 
 1. horse/bus.jpg :  test image files
 2. Inference_webcam_exam.py : we can make inference process via webcam.....!
